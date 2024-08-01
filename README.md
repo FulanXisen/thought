@@ -1,3 +1,5 @@
+Always in Thought.
+The website style now is based on Abridge
 <div align="center">
 <img src="https://raw.githubusercontent.com/Jieiku/abridge/master/abridge.svg"/>
 
